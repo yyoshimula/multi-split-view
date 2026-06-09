@@ -3,12 +3,12 @@
     <channel>
         <title>MultiSplitView</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Sat, 06 Jun 2026 16:21:47 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.2.0</title>
+            <pubDate>Tue, 09 Jun 2026 19:54:41 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yyoshimula/multi-split-view/releases/download/v0.1.0/MultiSplitView-0.1.0.dmg" length="2037145" type="application/octet-stream" sparkle:edSignature="4TzG8l0XRKW+bYbHpOdnKCZUyjAtQssIncG+kihse3jysmjFOoKW5xgMG5C4lCpL4JqYP6ppMVcCTrXFIGXpDQ=="/>
+            <enclosure url="https://github.com/yyoshimula/multi-split-view/releases/download/v0.2.0/MultiSplitView-0.2.0.dmg" length="2066912" type="application/octet-stream" sparkle:edSignature="oF/nGdshU1WpCduVCDWvmvZ4lWZFyW1ZryzCg7+tCGMwqM6X9E4Hgs4ziFYOJGl/p6H2BdbYFs5OWY//JOHUCg=="/>
         </item>
     </channel>
 </rss>
